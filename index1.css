@@ -1,0 +1,38 @@
+.nave-total{
+    background-color: rgb(195, 195, 226);
+    display: flex;
+    justify-content: space-around;
+}
+
+.nave-bar{
+    background-color: green;
+}
+.navebar-link{
+text-decoration: none;
+background-color: aqua;
+}
+.navebar-link ul{
+    display: flex;
+    text-decoration: none;
+    background-color: black;
+}
+.navebar-link ul{
+
+    text-decoration: none;
+    background-color: blueviolet;
+    padding: 10px;
+    gap: 20px;
+    width: 100%;
+}
+.navebar-link ul li{
+    /* display: flex; */
+    text-decoration: none;
+    background-color: brown;
+    padding: 5px;
+    gap: 10px;
+}
+
+.about-section{
+    display: flex;
+    justify-content: space-around;
+}
